@@ -8,7 +8,7 @@ import { Footer } from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "ResizeIt - Professional Image Resizing Tool | Free Online Image Resizer",
+	title: "Image Resize - Professional Image Resizing Tool | Free Online Image Resizer",
 	description:
 		"Resize images online for free. Professional image resizing tool with dimension control, file size optimization, and batch processing. Support for JPG, PNG, WebP formats.",
 	keywords:
@@ -62,7 +62,7 @@ export default function RootLayout({
 		<html lang='en' suppressHydrationWarning>
 			<head>
 				{/* Google Search Console Verification */}
-				<meta name="google-site-verification" content="YOUR-VERIFICATION-CODE" />
+				<meta name="google-site-verification" content="yM9uj0gFi4TRwD7yyvslaArX5jDR4GBMIsePp9qbgrU" />
 
 				{/* Google AdSense */}
 				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossOrigin="anonymous"></script>
