@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://attorneyinus.com/sitemap.xml
