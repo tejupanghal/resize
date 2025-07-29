@@ -60,7 +60,8 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang='en' suppressHydrationWarning>
-			<head>
+			<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4500547980522610"
+     crossorigin="anonymous"></script>
 				{/* Google Search Console Verification */}
 				<meta name="google-site-verification" content="yM9uj0gFi4TRwD7yyvslaArX5jDR4GBMIsePp9qbgrU" />
 
